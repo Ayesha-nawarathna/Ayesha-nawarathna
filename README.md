@@ -1,16 +1,33 @@
-## Hi there 👋
+👋 I'm Ayesha Nawarathna
 
-<!--
-**Ayesha-nawarathna/Ayesha-nawarathna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+✨ Information Technology Undergraduate  
+💻 Aspiring Software Engineer | QA Enthusiast  
 
-Here are some ideas to get you started:
+ 🌸 About Me
+- 🎓 University: Horizon Campus  
+- 📍 Location: Sri Lanka 🇱🇰  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 Interests
+- Full-Stack Development  
+- Machine Learning & AI  
+- Backend Development  
+- Software Quality Assurance (QA)
+
+  👇
+  
+ 🧪 QA / Testing Skills
+- Manual Testing  
+- Test Case Writing  
+- Bug Reporting  
+- Basic Knowledge of Automation Testing  
+- SDLC & STLC Concepts  
+
+🚀 Currently
+- Building projects  
+- Learning QA & Testing tools  
+- Improving coding skills  
+
+
+📫 Contact Me
+📧 Email:ayeshanawarathna90@gmail.com
+
