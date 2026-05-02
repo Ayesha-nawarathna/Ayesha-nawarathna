@@ -1,9 +1,11 @@
 ![banner](aa.png)
 
-                             👋 Open to Internship Opportunities 
+                 <h1 align="center">👋Open to Internship Opportunities </h1>            
 ____________________________________________________________________________________________________
 
-![my-photo](2.jpg)
+<p align="center">
+  <img src="2.jpg" width="250"/>
+</p>
  
  🌸 About Me
 ```yaml
