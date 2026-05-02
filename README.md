@@ -1,6 +1,6 @@
 ![banner](aa.png)
 
-                 <h1 align="center">👋Open to Internship Opportunities </h1>            
+              <h1 align="center">👋 Open to Internship Opportunities</h1>          
 ____________________________________________________________________________________________________
 
 <p align="center">
