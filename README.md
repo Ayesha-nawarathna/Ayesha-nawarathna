@@ -1,11 +1,17 @@
-👋 I'm Ayesha Nawarathna
+![banner](aa.png)
 
-✨ Information Technology Undergraduate  
-💻 Aspiring Software Engineer | QA Enthusiast  
+                             👋 Open to Internship Opportunities 
+____________________________________________________________________________________________________
 
+![my-photo](2.jpg)
+ 
  🌸 About Me
-- 🎓 University: Horizon Campus  
-- 📍 Location: Sri Lanka 🇱🇰  
+```yaml
+name: Ayesha Nawarathna
+location: Sri Lanka 🇱🇰
+university: Horizon Campus
+degree: IT Undergraduate
+status: Open for Internship Opportunities
 
 💡 Interests
 - Full-Stack Development  
@@ -13,9 +19,7 @@
 - Backend Development  
 - Software Quality Assurance (QA)
 
-  👇
-  
- 🧪 QA / Testing Skills
+🧪 QA / Testing Skills
 - Manual Testing  
 - Test Case Writing  
 - Bug Reporting  
@@ -30,4 +34,5 @@
 
 📫 Contact Me
 📧 Email:ayeshanawarathna90@gmail.com
-
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayesha-nawarathna&show_icons=true&theme=tokyonight)
