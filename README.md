@@ -32,8 +32,4 @@ status: Open for Internship Opportunities
 📫 Contact Me
 📧 Email:ayeshanawarathna90@gmail.com
 
-____________________________________________________________________________________________________
 
-
-</tr>
-</table>
